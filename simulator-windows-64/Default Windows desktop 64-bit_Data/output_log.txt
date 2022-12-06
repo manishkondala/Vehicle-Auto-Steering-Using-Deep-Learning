@@ -1,0 +1,67 @@
+Initialize engine version: 5.4.2f2 (b7e030c65c9b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce RTX 2060 (ID=0x1f15)
+    Vendor:   NVIDIA
+    VRAM:     5980 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Notes SBU\Sem 2\Cyber Physical Systems\FINAL_PROJECT\RUNNING\CPS_Project-main\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Notes SBU\Sem 2\Cyber Physical Systems\FINAL_PROJECT\RUNNING\CPS_Project-main\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Notes SBU\Sem 2\Cyber Physical Systems\FINAL_PROJECT\RUNNING\CPS_Project-main\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\Notes SBU\Sem 2\Cyber Physical Systems\FINAL_PROJECT\RUNNING\CPS_Project-main\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Notes SBU\Sem 2\Cyber Physical Systems\FINAL_PROJECT\RUNNING\CPS_Project-main\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Notes SBU\Sem 2\Cyber Physical Systems\FINAL_PROJECT\RUNNING\CPS_Project-main\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Notes SBU\Sem 2\Cyber Physical Systems\FINAL_PROJECT\RUNNING\CPS_Project-main\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading D:\Notes SBU\Sem 2\Cyber Physical Systems\FINAL_PROJECT\RUNNING\CPS_Project-main\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: D:\Notes SBU\Sem 2\Cyber Physical Systems\FINAL_PROJECT\RUNNING\CPS_Project-main\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Notes SBU\Sem 2\Cyber Physical Systems\FINAL_PROJECT\RUNNING\CPS_Project-main\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Notes SBU\Sem 2\Cyber Physical Systems\FINAL_PROJECT\RUNNING\CPS_Project-main\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Notes SBU\Sem 2\Cyber Physical Systems\FINAL_PROJECT\RUNNING\CPS_Project-main\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Notes SBU\Sem 2\Cyber Physical Systems\FINAL_PROJECT\RUNNING\CPS_Project-main\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\UnityEngine.CloudBuild.dll (this message is harmless)
+Loading D:\Notes SBU\Sem 2\Cyber Physical Systems\FINAL_PROJECT\RUNNING\CPS_Project-main\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\UnityEngine.CloudBuild.dll into Unity Child Domain
+Platform assembly: D:\Notes SBU\Sem 2\Cyber Physical Systems\FINAL_PROJECT\RUNNING\CPS_Project-main\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\UniFileBrowser.dll (this message is harmless)
+Loading D:\Notes SBU\Sem 2\Cyber Physical Systems\FINAL_PROJECT\RUNNING\CPS_Project-main\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\UniFileBrowser.dll into Unity Child Domain
+- Completed reload, in  0.042 seconds
+Platform assembly: D:\Notes SBU\Sem 2\Cyber Physical Systems\FINAL_PROJECT\RUNNING\CPS_Project-main\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Notes SBU\Sem 2\Cyber Physical Systems\FINAL_PROJECT\RUNNING\CPS_Project-main\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\System.dll (this message is harmless)
+OnLevelWasLoaded was found on ReturnToMainMenu
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 375)
+
+Platform assembly: D:\Notes SBU\Sem 2\Cyber Physical Systems\FINAL_PROJECT\RUNNING\CPS_Project-main\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\Mono.Security.dll (this message is harmless)
+Platform assembly: D:\Notes SBU\Sem 2\Cyber Physical Systems\FINAL_PROJECT\RUNNING\CPS_Project-main\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\Boo.Lang.dll (this message is harmless)
+desktop: 1920x1080 144Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.325400 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 17bc -> priority: 1 
+  Thread -> id: 1e68 -> priority: 1 
+  Thread -> id: 3d78 -> priority: 1 
+  Thread -> id: 24e4 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.692100 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 419.
+Total: 0.173100 ms (FindLiveObjects: 0.015200 ms CreateObjectMapping: 0.005900 ms MarkObjects: 0.142200 ms  DeleteObjects: 0.009300 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.888900 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 955.
+Total: 0.534400 ms (FindLiveObjects: 0.067300 ms CreateObjectMapping: 0.027100 ms MarkObjects: 0.397200 ms  DeleteObjects: 0.041900 ms)
+
+Platform assembly: D:\Notes SBU\Sem 2\Cyber Physical Systems\FINAL_PROJECT\RUNNING\CPS_Project-main\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\System.Configuration.dll (this message is harmless)
+Platform assembly: D:\Notes SBU\Sem 2\Cyber Physical Systems\FINAL_PROJECT\RUNNING\CPS_Project-main\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\System.Xml.dll (this message is harmless)
+Connection Open
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Connection Open
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
